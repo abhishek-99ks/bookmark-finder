@@ -1,0 +1,14 @@
+{
+  "name": "bookmark-finder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jsdom": "^21.0.0",
+    "jest-environment-jsdom": "^29.0.0"
+  }
+}
