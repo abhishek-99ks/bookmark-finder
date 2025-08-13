@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Bookmark Search</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <h1 class="title">Search bookmarks</h1>
+      </header>
+
+      <div class="inbox">
+        <input
+          id="query"
+          class="input"
+          placeholder="Enter names, URLs, or folder names..."
+          autofocus
+        />
+      </div>
+
+      <div id="results" class="results" aria-live="polite"></div>
+
+      <footer class="footer">
+        <small>By Abhishek Singh</small>
+      </footer>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
