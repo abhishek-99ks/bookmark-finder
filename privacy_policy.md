@@ -10,7 +10,6 @@ All bookmark searches are performed entirely on your device.
 ## Permissions Used
 
 - **Bookmarks** – to read and search your bookmarks locally.
-- **Tabs** – to open bookmarked pages in new tabs when clicked.
 
 ## Data Sharing
 
