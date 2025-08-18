@@ -3,7 +3,7 @@
   "name": "Bookmark Finder",
   "version": "1.0.0",
   "description": "Search your bookmarks using titles, URLs and folder paths.",
-  "permissions": ["bookmarks", "tabs"],
+  "permissions": ["bookmarks"],
   "action": {
     "default_title": "Bookmark Search",
     "default_popup": "popup.html",
